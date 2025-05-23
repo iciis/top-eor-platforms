@@ -10,7 +10,9 @@ Among these contenders, Multiplier has emerged as a strong player, often lauded 
 
 ## **What are the benefits of Employer of Record (EOR) Platforms?**
 
-
+<a href="https://afftrend.com/employerofrecordplatform">
+  <img src="https://drive.google.com/uc?export=view&id=19iNLAaapzaMSNdV6Gi54ZzpP7m4J3KAR"  alt="Benefits of Employer of Record (EOR) Platforms">
+</a>
 
 An Employer of Record (EOR) platform can be a game-changer for businesses, especially those looking to hire talent in new locations without the headache of setting up a local legal entity. Think of an EOR as a partner that legally employs workers on your behalf, while you still manage their day-to-day tasks. Here are some key benefits:
 
