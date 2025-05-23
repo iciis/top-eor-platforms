@@ -1,4 +1,4 @@
-# **Top 7 Employer of Record (EOR) Platforms Compared
+# Top 7 Employer of Record (EOR) Platforms Compared
 
 Businesses are increasingly looking beyond their domestic borders to find the best talent. However, navigating the complexities of international employment laws, payroll, and compliance can be a significant hurdle. This is where Employer of Record (EOR) platforms come into play, offering a streamlined solution for hiring and managing international teams without the need to establish a local legal entity. 
 
@@ -38,7 +38,9 @@ In essence, EOR platforms offer a streamlined, compliant, and efficient way to b
 
 ### **Multiplier:**
 
-
+<a href="https://afftrend.com/multiplier">
+  <img src="https://drive.google.com/uc?export=view&id=1VfdbvC5DnMjlt2cnoLIWjJaC-71m5CBp"  alt="Multiplier Homepage">
+</a>
 
 Multiplier stands out for its comprehensive suite of features designed to streamline the entire global hiring lifecycle. This includes:
 
@@ -101,6 +103,10 @@ Oyster HR stands out with its focus on creating a positive experience for both e
 
 ### **Velocity Global:**
 
+<a href="https://afftrend.com/velocity global">
+  <img src="https://drive.google.com/uc?export=view&id=1aFI2KkBTqdNGdJ-9UgzhHAJW0DoKs8lS"  alt="Velocity Global Homepage">
+</a>
+
 Velocity Global offers a comprehensive suite of global employment solutions, extending beyond traditional EOR services to include contractor management and global immigration support.
 
 - **Global Employer of Record Services:** Acts as the legal employer, handling all aspects of international employment.
@@ -130,7 +136,7 @@ Globalization Partners is a well-established leader in the EOR market, renowned 
 ### **Papaya Global:**
 
 <a href="https://afftrend.com/papaya global">
-  <img src="https://drive.google.com/uc?export=view&id=Globalization Partners"  alt="Papaya Global Homepage">
+  <img src="https://drive.google.com/uc?export=view&id=1oQEJCTlt-iSBlBudArGOeUg6UZH9E3Lv" alt="Papaya Global Homepage">
 </a>
 
 Papaya Global differentiates itself by offering a unified platform that integrates EOR services with a comprehensive global payroll and workforce management system. 
